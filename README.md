@@ -44,12 +44,13 @@ ex02-esp32-实现控制LED以1Hz的频率稳定闪烁。
 
 1.目录结构
 - `ex02/sketch_jun19b-1Hzflash.ino` - 实现固定频率闪烁。
-- `1Hz闪亮.mp4`
+- `1Hz闪亮.mp4`-结果展示
 
 ex03-esp32-实现控制LED产生SOS闪烁信息。
 
 1.目录结构
 - `ex03/sketch_jun19c-sos.ino` - 实现彩灯sos闪烁。
+- `sos.mp4`-结果展示
 
 lab02-esp32-LED闪烁控制。
 
